@@ -81,8 +81,7 @@ Attacker Tools ──> Virtual Switch (Mininet/OVS) ──> SDN Controller (RYU)
 
 ## 📂 GitHub Repositories
 
-- 🔗 [Safe-Net Core Repo](https://github.com/Vedansh2601/Safe-Net)
-- 🔗 [Safe-Net DDoS Detection GitHub (Linked)](https://github.com/vermaShivang/Safe-Net-DDos-detection-and-Mitigation)
+- 🔗 [Safe-Net DDoS Detection GitHub ](https://github.com/vermaShivang/Safe-Net-DDos-detection-and-Mitigation)
 
 ---
 
